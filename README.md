@@ -9,10 +9,10 @@ pip install sklearn
 Preprocessing Steps
 The text data undergoes several preprocessing steps before sentiment analysis:
 
-Cleaning the text by removing special characters and symbols.
-Converting the text to lowercase.
-Removing unnecessary whitespaces and replacing certain patterns.
-Vectorizing the preprocessed text data using TF-IDF (Term Frequency-Inverse Document Frequency).
+-Cleaning the text by removing special characters and symbols.
+-Converting the text to lowercase.
+-Removing unnecessary whitespaces and replacing certain patterns.
+-Vectorizing the preprocessed text data using TF-IDF (Term Frequency-Inverse Document Frequency).
 
 
 
