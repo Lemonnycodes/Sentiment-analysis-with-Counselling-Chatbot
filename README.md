@@ -23,4 +23,5 @@ The system provides users with a detailed analysis of the sentiment expressed in
 - Utilized TF-IDF vectorization to transform the text data into a numerical representation.
 - Trained a machine learning model to accurately classify the sentiment of movie reviews.
 - Achieved significant insights into the sentiment expressed in the reviews through extensive analysis.
+- Seti - bot , counselling chatbot was developed using kotlin 
 
