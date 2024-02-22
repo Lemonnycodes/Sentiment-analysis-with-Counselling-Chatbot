@@ -1,5 +1,6 @@
 ## Tech Stack
 - Python
+- Kotlin
 
 
 ## Project Description
